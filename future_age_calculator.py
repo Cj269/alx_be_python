@@ -1,4 +1,4 @@
-input ("How old are you?")
-age = 30+27
-print ("In 2050, you will be", age, "years old")
+age = int(input ("How old are you?"))
+new_age = age+27
+print ("In 2050, you will be", new_age, "years old")
 
